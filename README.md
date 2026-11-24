@@ -1,6 +1,6 @@
-# CI Practical — AB
+# CI Practical — EF
 
-Student initials: AB
+Student initials: EF
 
 This repository demonstrates automated testing with GitHub Actions.
 
