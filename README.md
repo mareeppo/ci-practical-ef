@@ -1,2 +1,8 @@
-# ci-practical-ef
-A guided CI practical using Python and GitHub Actions.
+# CI Practical — AB
+
+Student initials: AB
+
+This repository demonstrates automated testing with GitHub Actions.
+
+Starting version: five calculator tests.
+Final required version: seven calculator tests, including multiplication.
